@@ -1,0 +1,2 @@
+# Painbot
+Bot for discord!
